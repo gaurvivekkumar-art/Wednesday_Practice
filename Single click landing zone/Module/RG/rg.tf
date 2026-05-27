@@ -1,6 +1,6 @@
-resource "azurerm_resource_group" "rg1" {
+resource "azurerm_resource_group" "rg2" {
   name = "RG"
-  location = "westus"
+  location = "centralindia"
   
 }
 resource "azurerm_resource_group" "rg1" {
